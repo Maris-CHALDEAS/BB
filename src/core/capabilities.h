@@ -3,8 +3,6 @@
 #include <string>
 #include <cstdint>
 
-#include "capabilities.h"
-
 namespace Navi::Core::Capability {
 
 enum class CapabilityLevel: std::uint8_t {
